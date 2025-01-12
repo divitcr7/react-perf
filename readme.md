@@ -6,11 +6,13 @@ A comprehensive React performance optimization toolkit that automatically detect
 ![license](https://img.shields.io/npm/l/react-perf-optimizer)
 ![downloads](https://img.shields.io/npm/dm/react-perf-optimizer)
 
-<div align="center">
-  <video width="100%" controls>
-    <source src="assets/npm_package_test.mp4" type="video/mp4">
-  </video>
-</div>
+### Demo of what the code does
+Video:
+
+https://github.com/user-attachments/assets/45d5398e-4e71-4580-a844-420d1d214680
+
+
+
 
 <table>
   <tr>
