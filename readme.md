@@ -8,7 +8,7 @@ A comprehensive React performance optimization toolkit that automatically detect
 
 <div align="center">
   <video width="100%" controls>
-    <source src="assets/npm_package_test.mp4" type="video/mov">
+    <source src="assets/npm_package_test.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -26,7 +26,7 @@ A comprehensive React performance optimization toolkit that automatically detect
       <img src="assets/page_3.png" alt="Feature 3" width="300"/>
     </td>
     <td align="center">
-      <img src="assets/Page_4.png" alt="Feature 4" width="300"/>
+      <img src="assets/page_4.png" alt="Feature 4" width="300"/>
     </td>
   </tr>
 </table>
