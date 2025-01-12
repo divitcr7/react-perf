@@ -1,0 +1,29 @@
+{
+  "name": "react-perf-optimizer",
+  "version": "1.0.3",
+  "description": "Performance optimization helper for React applications",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "babel src -d dist"
+  },
+  "keywords": [
+    "react",
+    "performance",
+    "optimization"
+  ],
+  "author": "divit patidar",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "simple-git": "^3.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divitcr7/react-perf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/divitcr7/react-perf/issues"
+  },
+  "homepage": "https://github.com/divitcr7/react-perf#readme"
+}
