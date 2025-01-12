@@ -8,7 +8,7 @@ A comprehensive React performance optimization toolkit that automatically detect
 
 <div align="center">
   <video width="100%" controls>
-    <source src="assets/npm_package_test.mov" type="video/mov">
+    <source src="assets/npm_package_test.mp4" type="video/mov">
   </video>
 </div>
 
